@@ -145,6 +145,31 @@ Customer segmentation using RFM (Recency, Frequency, Monetary) analysis
 				
 	- The dashboard provides both executive-level overview and analytical depth.
 
+
+## 🖼️ Dashboard Screenshots
+
+### 📌 Overall Dashboard View
+
+![RFM Dashboard Overview](screenshots/dashboard_overview.PNG)
+
+### 🔥 RFM Heatmap
+![RFM Heatmap](screenshots/rfm_heatmap.PNG)
+
+### 📊 Customer Segmentation & Revenue
+![Customer Segmentation](screenshots/segment_analysis.PNG)
+
+
+## 💡 Key Insights
+
+	- Champions and Loyal Customers generate the majority of revenue
+		
+	- A significant number of customers fall into Hibernating and At-Risk segments
+		
+	- High-frequency but low-recency customers indicate churn risk
+		
+	- Targeted campaigns can significantly improve customer retention
+	
+
 ## 📁 Repository Structure
 
 		rfm-customer-segmentation/
@@ -158,20 +183,14 @@ Customer segmentation using RFM (Recency, Frequency, Monetary) analysis
 		├── dashboard/
 		│   └── rfm_dashboard.pbix
 		│
+        ├── screenshots/
+		|   └── dashboard_overview.PNG
+		|       rfm_heatmap.PNG
+		|       segment_analysis.PNG
+		|
 		└── README.md
 
-
-## 💡 Key Insights
-
-	- Champions and Loyal Customers generate the majority of revenue
 		
-	- A significant number of customers fall into Hibernating and At-Risk segments
-		
-	- High-frequency but low-recency customers indicate churn risk
-		
-	- Targeted campaigns can significantly improve customer retention
-
-
 ## 👤 Author
 
 	Faries  
